@@ -1,0 +1,21 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+
+int main() {
+   string s;
+   int sem;
+   cout<<"enter your name:\t";
+   cin>>s;
+   cout<<"enter sem:";
+   cin>>sem;
+
+   cout<<"\n \n \n Hello , you have enterd this name:"<<s;
+   cout<<" and your semester is :"<<sem;
+   cout<<"\n Thank you!";
+   
+   
+
+
+    return 0;
+}
