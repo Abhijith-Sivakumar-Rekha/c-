@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+int main() {
+cout << "Hello, my \n name is Abhijith!";
+cout << " \n \t i am studying in  cs!";
+cout << " \n subject\\ \'system & oops\'\? ";
+int a=10;
+cout<<" \n post increment of number \t="  <<a++;
+cout<<" \n post decrement of number \t="  <<a--;
+cout<<" \n a's value is \t" <<a;
+cout<<" \n pre-increment of number \t="  <<++a;
+cout<<" \n pre-decrement of number \t="  <<--a;
+
+
+int b=15;
+cout<<" \n \n the substraction 0f a and b \t="  <<a-b;
+cout<<" \n the multiplication of a and b \t="  <<a*b;
+cout<<" \n the division of numbers a and b \t="  <<a/b;
+cout<<" \n the modulus of numbers a and b \t="  <<a%b;
+cout<<" \n the addition of numbers a and b \t="  <<a+b;
+
+
+
+
+return 0;
+}
